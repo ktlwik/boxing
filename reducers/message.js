@@ -5,9 +5,9 @@ const initState = {
 };
 export default (state = initState, action) => {
   switch (action.type) {
-    case SET_MESSAGE : 
+    case SET_MESSAGE :
       return { ...state, message: action.payload.message };
-    default : 
+    default :
       return state;
   }
 };
