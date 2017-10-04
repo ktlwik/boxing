@@ -1,4 +1,4 @@
-# intellection.kz
+# Boxing App
 
 🚧 WIP
 
