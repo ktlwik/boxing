@@ -1,6 +1,9 @@
 {
   "parser": "babel-eslint",
-  "extends": "airbnb", 
+  "extends": "airbnb",
+  "rules": {
+    "strict": 0
+  },
   "plugins": [
     "react", 
     "jsx-a11y",
